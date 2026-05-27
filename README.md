@@ -1,10 +1,21 @@
 # 抖音推荐/搜索页视频列表视频爬虫方案
 
-> 最近测试可用时间：`2024.06.20`
+> 最近测试可用时间：`2026.05.25`
 
 > adb暂未实现进入搜索页的操作，请根据自身技术栈实现相关点击操作及键入关键词等
 
 > 老版本请切换到`old`分支查看，`old`分支使用anyproxy抓取，更适合大多数人使用
+
+---
+
+[![ipwo](static/ipwo.png)](https://www.ipwo.net/?ref=githubcnbattle)
+
+### [IPWO爬虫代理资源为采集、跨境与测试项目提供支持(免费试用，流量不过期，爬虫使用保护账号不封号)学习者务必遵循法律！](https://www.ipwo.net/?ref=githubcnbattle)
+
+
+### [IPWO提供的真实住宅 IP源于195 + 国家 / 地区精准定位，大幅降低被封禁风险，优惠折扣码"douyin"。](https://www.ipwo.net/?ref=githubcnbattle)
+
+---
 
 基于APP爬取
 
